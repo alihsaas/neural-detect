@@ -1,0 +1,7 @@
+detector,upscale,validation_ap50,seconds
+hog_opencv_default,1.0000,0.0640,21.4532
+hog_opencv_default,1.5000,0.0914,53.4517
+hog_opencv_default,2.0000,0.0900,110.0338
+hog_trained,1.0000,0.0740,32.4952
+hog_trained,1.5000,0.1061,89.9312
+hog_trained,2.0000,0.1046,315.3473

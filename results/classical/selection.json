@@ -1,0 +1,13 @@
+{
+  "upscale": {
+    "hog_opencv_default": 1.5,
+    "hog_trained": 1.5
+  },
+  "training": {
+    "positive_windows": 2506,
+    "random_negative_windows": 10528,
+    "hard_negative_windows": 9625,
+    "person_free_images": 2635,
+    "c": 0.01
+  }
+}

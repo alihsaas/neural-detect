@@ -1,0 +1,4 @@
+method,images,person_boxes,ap50,ap50_ci_low,ap50_ci_high,ap75,max_recall50
+centrenet_seed0,4952,4528,0.6921,0.6770,0.7087,0.2762,0.7842
+centrenet_seed1,4952,4528,0.6809,0.6649,0.6983,0.2644,0.7822
+centrenet_seed2,4952,4528,0.6768,0.6599,0.6934,0.2581,0.7836

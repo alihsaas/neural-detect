@@ -1,0 +1,24 @@
+{
+  "device": "cuda",
+  "torch": "2.9.1+cu128",
+  "runs": [
+    {
+      "name": "centrenet_seed0",
+      "best_epoch": 35,
+      "best_validation_ap50": 0.713763677528874,
+      "parameters": 3578293
+    },
+    {
+      "name": "centrenet_seed1",
+      "best_epoch": 35,
+      "best_validation_ap50": 0.6978691128606536,
+      "parameters": 3578293
+    },
+    {
+      "name": "centrenet_seed2",
+      "best_epoch": 30,
+      "best_validation_ap50": 0.6804779864408412,
+      "parameters": 3578293
+    }
+  ]
+}

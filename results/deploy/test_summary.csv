@@ -1,0 +1,3 @@
+method,images,person_boxes,ap50,ap50_ci_low,ap50_ci_high,ap75,max_recall50
+onnx_fp32,4952,4528,0.6919,0.6768,0.7084,0.2759,0.7840
+onnx_int8,4952,4528,0.6687,0.6536,0.6858,0.2470,0.7727

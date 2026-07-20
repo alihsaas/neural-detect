@@ -1,0 +1,9 @@
+method,threads,ms_median,ms_p90
+hog_opencv_default,1,334.8764,393.2228
+hog_trained,1,362.6446,436.5058
+onnx_fp32,1,78.2438,95.3787
+onnx_int8,1,42.9982,54.2111
+hog_opencv_default,12,61.9364,72.8591
+hog_trained,12,90.3903,111.2291
+onnx_fp32,12,34.5722,40.5529
+onnx_int8,12,31.7176,34.6359

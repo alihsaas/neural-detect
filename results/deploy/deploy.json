@@ -1,0 +1,12 @@
+{
+  "exported_run": "centrenet_seed0",
+  "int8_calibration": "percentile",
+  "calibration_images": 200,
+  "speed_images": 200,
+  "fp32_megabytes": 14.598383,
+  "int8_megabytes": 4.009895,
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "logical_cpus": 12,
+  "onnxruntime": "1.32.0",
+  "opencv": "4.14.0"
+}
